@@ -8,22 +8,22 @@ global.ytname = "YT: AyushBotz.inc"
 global.socialm = "GitHub: Ayushpandey023"
 global.location = "Indian"
 
-global.ownername = 'Ayush' //owner name
-global.botname = '𝐌𝐀𝐑𝐈𝐀-𝐌𝐃' //name of the bot
+global.ownername = 'Abraham' //owner name
+global.botname = 'AB-BOT-𝐌𝐃' //name of the bot
 
 //sticker details
-global.stickername = '💙𓆩‎✘AʏᴜSʜ✘𓆪_✰'
+global.stickername = '💙𓆩‎✘AB𓆪_✰'
 global.packname = 'Sticker By'
-global.author = 'Maria Bot'
+global.author = 'AB Bot'
 //console view/theme
 global.themeemoji = '🧩'
-global.wm = "Ayush botz inc."
+global.wm = "AB botz inc."
 
 //theme link
-global.link = 'https://chat.whatsapp.com/Jllsl2OaQNoBjepxzuVsZM'
+global.link = 'https://chat.whatsapp.com/EKeNBKlZPoICcHCJ227P61'
 
 //custom prefix
-global.prefa = ['#']
+global.prefa = ['.']
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
@@ -31,7 +31,7 @@ global.autoTyping = false //auto typing
 global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = false //auto update bio
-global.anti212 = true //auto block +212
+global.anti212 = false //auto block +212
 global.autoread_status = false //auto view status/story
 
 
